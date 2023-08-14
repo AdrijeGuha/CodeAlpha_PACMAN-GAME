@@ -84,7 +84,7 @@ Contributions are welcome! If you find any issues or would like to enhance the g
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [The Unlicense](LICENSE).
 
 ---
 
